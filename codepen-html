@@ -1,0 +1,43 @@
+<html>
+
+<body id="main">
+  <title-div>
+    <h1 id="title"> Wangari Maathai
+    </h1>
+    <h2 class=h2>“Human rights are not things that are put on the table for people to enjoy. These are things you fight for and then you protect.”
+    </h2>
+  </title-div>
+  <div id="img-div">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVhTF910u1mBGh_ppPrG1bnlWwESeYhFqIUo7x-AIhKB0id0JGA" alt="Wangari Maathai" id="image">
+    <div id="img-caption"> Wangari Maathai, environmental leader and activist
+    </div>
+    </img>
+  </div>
+  <h2 id="tribute-info"> Timeline
+  </h2>
+  <ul id="timeline">
+    <li> April 1, 1940 - Wangari is born in Nyeri, Kenya as the third of sixth children
+    </li>
+    <li>1960 - Wangari travels abroad to the United States to pursue her college education
+    </li>
+    <li>1966 - Wangari returns home to Kenya with undergraduate as well as master's degrees in biology
+    </li>
+    <li>1971 - Wangari earns her Ph.D. in Veterinary Anatomy at the University of Nairobi and becomes their first female professor
+    </li>
+    <li>1977 - Wangari Maathai founds the Green Belt Movement while introducing the practice of tree planting to Kenyan women
+    </li>
+    <li>1992 - Maathai is beaten by police during an eleven month protest againt political corruption and jailing of activist's sons
+    </li>
+    <li>1998 - The Green Belt Movement begins planting only indigenous trees
+    </li>
+    <li>2002 - Wangari Maathai is elected to parliament, receiving 98 percent of the vote
+    </li>
+    <li>2004 - Wangari Maathai receives the Nobel Peace Prize for her work towards sustainable development, democracy, and peace. She is also the first African woman to receive the prize
+    </li>
+    <li>September 25, 2011 - Maathai dies from ovarian cancer at the age of 71
+    </li>
+  </ul>
+  <a href="https://en.wikipedia.org/wiki/Wangari_Maathai" id="tribute-link" target="_blank">Click here to learn more about this brilliant activist!</a>
+</body>
+
+</html>
