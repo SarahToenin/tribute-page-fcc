@@ -1,0 +1,31 @@
+body {
+  background: url(https://i.imgur.com/MJAkxbh.png);
+  font-family: Helvetica;
+  color: #563750;
+}
+#title {
+  font-size: 30px;
+  text-align: center;
+}
+.h2 {
+  font-size: 16px;
+  text-align: center;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  padding: 1px;
+  border: 2px solid #ffffff;
+}
+#img-caption {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+#timeline {
+}
+#tribute-link {
+}
